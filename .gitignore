@@ -1,0 +1,4 @@
+/.npmrc
+/a11y-results
+/node_modules
+/package-lock.json

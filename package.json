@@ -1,0 +1,15 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "description": "Test abc demo site using axe DevTools Cypress. Run inside various CICD pipelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@axe-devtools/cypress": "^4.4.2",
+    "@axe-devtools/reporter": "^4.4.0"
+  }
+}
